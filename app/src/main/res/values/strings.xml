@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Manchester United</string>
+    <string name="menu_profile">Profile</string>
+    <string name="manu_back">Back</string>
+    <string name="player_name">Nama Pemain</string>
+    <string name="profile_name">Name : Ahmad Sulha Ansori</string>
+    <string name="profile_email">Email : asulhaansori@students.amikom.ac.id</string>
+    <string name="player_rate">Rate Pemain</string>
+    <string name="description">Deskripsi</string>
+    <string name="this_is_detailactivity">Ini MoveActivity</string>
+    <string-array name="data_name">
+        <item>Bruno Fernandes</item>
+        <item>Casemiro</item>
+        <item>Diogo Dalot</item>
+        <item>Alejandro Garnacho</item>
+        <item>Rasmus Højlund</item>
+        <item>Harry Maguire</item>
+        <item>André Onana</item>
+        <item>Marcus Rashford</item>
+        <item>Luke Shaw</item>
+        <item>Raphaël Varane</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Bruno Miguel Borges Fernandes (lahir 8 September 1994) adalah seorang pemain sepak bola asal Portugal yang saat ini bermain sebagai gelandang di tim Liga Utama Inggris Manchester United F.C. dan tim nasional sepak bola Portugal.</item>
+        <item>Carlos Henrique Casimiro (lahir 23 Februari 1992), biasa lebih dikenal sebagai Casemiro, adalah seorang pemain sepak bola profesional asal Brasil yang bermain sebagai gelandang bertahan untuk klub Liga Utama Inggris Manchester United dan tim nasional Brasil.</item>
+        <item>José Diogo Dalot Teixeira (lahir 18 Maret 1999) adalah seorang pemain sepak bola profesional asal Portugal yang bermain sebagai bek kanan untuk klub Liga Utama Inggris Manchester United dan tim nasional Portugal.</item>
+        <item>Alejandro Garnacho (lahir 1 Juli 2004) adalah pemain sepak bola profesional yang bermain sebagai winger untuk klub Manchester United. Lahir di Madrid, ia adalah pemain muda timnas sepak bola Argentina.</item>
+        <item>Rasmus Winther Højlund (lahir 4 Februari 2003) adalah seorang pemain sepak bola profesional asal Denmark yang bermain sebagai penyerang untuk klub Liga Utama Inggris Manchester United dan tim nasional Denmark.</item>
+        <item>Jacob Harry Maguire (lahir 5 Maret 1993) adalah seorang pemain sepak bola berkewarganegaraan Inggris yang bermain untuk klub Manchester United pada posisi bek tengah.</item>
+        <item>André Onana (lahir 2 April 1996) adalah seorang pemain sepak bola profesional asal Kamerun yang bermain sebagai penjaga gawang untuk klub Premier League Manchester United, dan tim nasional Kamerun. Dia di datangkan Manchester United dari Inter Milan untuk menggantikan posisi penjaga gawang sebelumnya yaitu David de Gea yang habis kontrak dengan Manchester United.</item>
+        <item>Marcus Rashford MBE (lahir 31 Oktober 1997) atau yang lebih dikenal Sebagai Rashford adalah seorang pemain sepak bola profesional untuk Manchester United dan tim nasional Inggris kelahiran Wythensawe, Manchester, Inggris. Rashford mencetak dua gol pada pertandingan debutnya bersama tim senior menghadapi Midtjylland di UEFA Europa League. Dia juga mencetak gol melawan Arsenal saat debut di Liga Utama Inggris. Selama berseragam dengan United, Marcus Rasford telah menjuarai Piala FA, Piala Liga Inggris, Community Shield FA, dan Liga Eropa UEFA.</item>
+        <item>Luke Paul Hoare Shaw (lahir 12 Juli 1995) adalah seorang pemain sepak bola asal Inggris yang bermain sebagai bek kiri untuk klub Liga Utama Inggris Manchester United dan tim nasional Inggris.</item>
+        <item>Raphaël Varane (lahir 25 April 1993) adalah seorang pemain sepak bola berkewarganegaraan Prancis yang bermain untuk klub Manchester United sebagai bek tengah atau gelandang bertahan. Sebelumnya, ia bermain untuk tim kampung halamannya, RC Lens. Di level internasional, ia telah tampil 15 kali dan mencetak 3 gol untuk Prancis U21.</item>
+    </string-array>
+    <string-array name="data_rate">
+        <item>9.5/10</item>
+        <item>8/10</item>
+        <item>8.5/10</item>
+        <item>7/10</item>
+        <item>8.5/10</item>
+        <item>9/10</item>
+        <item>7.5/10</item>
+        <item>8.5/10</item>
+        <item>8/10</item>
+        <item>9.5/10</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/brunof</item>
+        <item>@drawable/casemiro</item>
+        <item>@drawable/dalot</item>
+        <item>@drawable/garnacho</item>
+        <item>@drawable/hojlund</item>
+        <item>@drawable/maguire</item>
+        <item>@drawable/onana</item>
+        <item>@drawable/rashford</item>
+        <item>@drawable/shaw</item>
+        <item>@drawable/varane</item>
+    </integer-array>
+</resources>
